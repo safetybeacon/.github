@@ -36,7 +36,7 @@ All project management is held within GitHub. Please open issues and submit pull
 
 Please include lots of comments, and use tabs to indent your code.
 
-Your pull requests will be reviewed by a [Safety Beacon organisation member](https://github.com/orgs/safetybeacon/people) as soon as possible.
+Your pull requests will be reviewed by the repository's code owner(s) as soon as possible.
 
 ### Software license
 
