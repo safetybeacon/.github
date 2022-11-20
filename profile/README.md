@@ -27,7 +27,8 @@ I'd like it to be non-for-profit and fully open source, so it's about everyone h
 | Cloud provider | [AWS](https://aws.amazon.com/) |
 | Code as infrastructure | [Terraform](https://www.terraform.io/) |
 
-**Note:** It's early days and the stack/architecture is subject to change.
+> **Note:** It's early days and the stack/architecture is subject to change.
+> See current architecture plan [here](https://github.com/safetybeacon/infrastructure/blob/main/architecture_plan.md)
 
 ### Contribution guidelines
 
