@@ -18,7 +18,7 @@ I'd like it to be non-for-profit and fully open source, so it's about everyone h
 
 | Service | Technology used |
 | - | - |
-| Website | [NextJS](https://nextjs.org/) |
+| [Website](https://github.com/safetybeacon/website) | [NextJS](https://nextjs.org/) |
 | iOS app | [Flutter](https://flutter.dev/) |
 | Android app | [Flutter](https://flutter.dev/) |
 | Smart watch apps | *TBC* |
