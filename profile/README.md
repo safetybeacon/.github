@@ -14,18 +14,18 @@ I'd like it to be non-for-profit and fully open source, so it's about everyone h
 
 ## The technology 🧑‍💻
 
-### Stack/Architecture
+### The Tech Stack
 
-| Service | Technology |
+| Service | Technology used |
 | - | - |
-| Website | *TBC* |
+| Website | [NextJS](https://nextjs.org/) |
 | iOS app | [Flutter](https://flutter.dev/) |
 | Android app | [Flutter](https://flutter.dev/) |
 | Smart watch apps | *TBC* |
 | [REST API](https://github.com/safetybeacon/beacon-api) | [Golang](https://go.dev/) |
-| Database | *TBC* |
+| Database | [PostgreSQL](https://www.postgresql.org/) |
 | Cloud provider | [AWS](https://aws.amazon.com/) |
-| Code as infrastructure | [Terraform](https://www.terraform.io/), [Ansible](https://www.ansible.com/) |
+| Code as infrastructure | [Terraform](https://www.terraform.io/) |
 
 **Note:** It's early days and the stack/architecture is subject to change.
 
