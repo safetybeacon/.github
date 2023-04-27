@@ -18,14 +18,13 @@ I'd like it to be non-for-profit and fully open source, so it's about everyone h
 
 | Service | Technology used |
 | - | - |
-| [Website](https://github.com/safetybeacon/website) | [NextJS](https://nextjs.org/) |
-| iOS app | [Flutter](https://flutter.dev/) |
-| Android app | [Flutter](https://flutter.dev/) |
+| [Website](https://github.com/safetybeacon/website) | [Hugo](https://gohugo.io/) |
+| [Client apps (Web, iOS, Android)](https://github.com/safetybeacon/client-app) | [TypeScript](https://www.typescriptlang.org/), [React](https://react.dev/), [Chakra UI](https://chakra-ui.com/), [Zustand](https://github.com/pmndrs/zustand), [Capacitor](https://capacitorjs.com/) |
 | Smart watch apps | *TBC* |
-| [REST API](https://github.com/safetybeacon/beacon-api) | [Golang](https://go.dev/) |
+| [REST API](https://github.com/safetybeacon/beacon-api) | [Golang](https://go.dev/), [Gin](https://github.com/gin-gonic/gin), [GORM](https://gorm.io/) |
 | Database | [PostgreSQL](https://www.postgresql.org/) |
-| Cloud provider | [AWS](https://aws.amazon.com/) |
-| Code as infrastructure | [Terraform](https://www.terraform.io/) |
+| Cloud provider | [GCP](https://aws.amazon.com/) |
+| Infrastructure as Code | [Terraform](https://www.terraform.io/) |
 
 > **Note:** It's early days and the stack/architecture is subject to change.
 > See current architecture plan [here](https://github.com/safetybeacon/infrastructure/blob/main/architecture_plan.md)
