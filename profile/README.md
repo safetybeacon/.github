@@ -23,8 +23,6 @@ I'd like it to be non-for-profit and fully open source, so it's about everyone h
 | Smart watch apps | *TBC* |
 | [REST API](https://github.com/safetybeacon/beacon-api) | [Golang](https://go.dev/), [Gin](https://github.com/gin-gonic/gin), [GORM](https://gorm.io/) |
 | Database | [PostgreSQL](https://www.postgresql.org/) |
-| Cloud provider | [GCP](https://aws.amazon.com/) |
-| Infrastructure as Code | [Terraform](https://www.terraform.io/) |
 
 > **Note:** It's early days and the stack/architecture is subject to change.
 > See current architecture plan [here](https://github.com/safetybeacon/infrastructure/blob/main/architecture_plan.md)
